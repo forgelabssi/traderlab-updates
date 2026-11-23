@@ -1,6 +1,6 @@
 {
- "version": "3.7.1",
- "file": "3.7.1.tlu",
- "notes": "Futures: a failed test on spot no longer makes futures wait a week. The coin list may hold 8, 12 or 16 coins, chosen by the strategy test. AI agents: connect your own Anthropic key under System, AI agents.",
+ "version": "3.7.2",
+ "file": "3.7.2.tlu",
+ "notes": "Alerts on your phone, sent by the dashboard's own web app: System, Alerts on your phone, on the phone itself. No other app. No trading rule changed.",
  "published": "2026-11-23"
 }
