@@ -1,6 +1,6 @@
 {
- "version": "3.7.3",
- "file": "3.7.3.tlu",
- "notes": "The three AI agents now ask Claude Fable 5.2 at max effort (it was Sonnet 5.5). System, AI agents shows the model, changes it and counts what the agents cost. No trading rule changed.",
+ "version": "3.7.4",
+ "file": "3.7.4.tlu",
+ "notes": "The three AI agents ask Claude Fable 5.2 at xhigh effort (3.7.3 shipped max; before that it was Sonnet 5.5). xhigh halves the room an ask may use. System, AI agents shows the model, changes it and counts what the agents cost. No trading rule changed.",
  "published": "2026-11-23"
 }
