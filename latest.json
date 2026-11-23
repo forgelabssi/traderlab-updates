@@ -1,6 +1,6 @@
 {
- "version": "3.7.2",
- "file": "3.7.2.tlu",
- "notes": "Alerts on your phone, sent by the dashboard's own web app: System, Alerts on your phone, on the phone itself. No other app. No trading rule changed.",
+ "version": "3.7.3",
+ "file": "3.7.3.tlu",
+ "notes": "The three AI agents now ask Claude Fable 5.2 at max effort (it was Sonnet 5.5). System, AI agents shows the model, changes it and counts what the agents cost. No trading rule changed.",
  "published": "2026-11-23"
 }
