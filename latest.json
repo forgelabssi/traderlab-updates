@@ -1,6 +1,6 @@
 {
- "version": "3.7.4",
- "file": "3.7.4.tlu",
- "notes": "The three AI agents ask Claude Fable 5.2 at xhigh effort (3.7.3 shipped max; before that it was Sonnet 5.5). xhigh halves the room an ask may use. System, AI agents shows the model, changes it and counts what the agents cost. No trading rule changed.",
- "published": "2026-11-23"
+ "version": "3.7.5",
+ "file": "3.7.5.tlu",
+ "notes": "The bot trades futures, long and short: on paper at once, with a pretend 10,000 dollars; with real money by the usual steps once the Coinbase account can trade whole contracts (the dashboard says how much). New: a status page you can switch on. Fixed: the dashboard could fail to start on futures.",
+ "published": "2026-11-24"
 }
